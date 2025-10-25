@@ -1,0 +1,9 @@
+              precision    recall  f1-score   support
+
+   Coca-Cola       0.98      1.00      0.99        55
+    Heineken       1.00      1.00      1.00        36
+       Pepsi       1.00      0.97      0.98        29
+
+    accuracy                           0.99       120
+   macro avg       0.99      0.99      0.99       120
+weighted avg       0.99      0.99      0.99       120
